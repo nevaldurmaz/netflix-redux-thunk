@@ -24,4 +24,7 @@
 
 -APİ:https://developer.themoviedb.org/reference
 -Slider:https://splidejs.com/guides/getting-started/
+
 # netflix-redux-thunk
+![netflix redux-thunk](https://github.com/user-attachments/assets/d84b5a01-decd-4e48-a2f8-42147e7acfc1)
+
